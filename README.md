@@ -8,4 +8,4 @@ Technologies:
    * GML (Game Maker Language)
    
 The Dev Process:
-  * Notes:
+  * Notes: https://github.com/HerrPeterr/Game_Tank-Wars/wiki/Notes
